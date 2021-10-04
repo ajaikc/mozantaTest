@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mozantaTest/static/css/main.4e7fb547.chunk.css",
+    "main.js": "/mozantaTest/static/js/main.36102284.chunk.js",
+    "main.js.map": "/mozantaTest/static/js/main.36102284.chunk.js.map",
+    "runtime-main.js": "/mozantaTest/static/js/runtime-main.6eede8c1.js",
+    "runtime-main.js.map": "/mozantaTest/static/js/runtime-main.6eede8c1.js.map",
+    "static/js/2.04318879.chunk.js": "/mozantaTest/static/js/2.04318879.chunk.js",
+    "static/js/2.04318879.chunk.js.map": "/mozantaTest/static/js/2.04318879.chunk.js.map",
+    "static/js/3.9621a711.chunk.js": "/mozantaTest/static/js/3.9621a711.chunk.js",
+    "static/js/3.9621a711.chunk.js.map": "/mozantaTest/static/js/3.9621a711.chunk.js.map",
+    "index.html": "/mozantaTest/index.html",
+    "static/css/main.4e7fb547.chunk.css.map": "/mozantaTest/static/css/main.4e7fb547.chunk.css.map",
+    "static/js/2.04318879.chunk.js.LICENSE.txt": "/mozantaTest/static/js/2.04318879.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eede8c1.js",
+    "static/js/2.04318879.chunk.js",
+    "static/css/main.4e7fb547.chunk.css",
+    "static/js/main.36102284.chunk.js"
+  ]
+}
